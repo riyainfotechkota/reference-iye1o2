@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riyainfotechkota.github.io/reference-iye1o2/sitemap.xml
